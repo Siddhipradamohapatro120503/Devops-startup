@@ -30,7 +30,7 @@ function App() {
     });
   }, []);
 
-  useDocTitle("CloudOpsInsider");
+  useDocTitle("CloudOpsInsiders");
 
   return (
     <>
