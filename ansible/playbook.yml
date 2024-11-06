@@ -3,7 +3,7 @@
   hosts: web_server
   become: true
   vars:
-    container_name: flask-app
+    container_name: node-app
     docker_image: ""  # Will be passed from GitHub Actions
 
   tasks:
